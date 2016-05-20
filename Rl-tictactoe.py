@@ -1,4 +1,3 @@
-
 #!/usr/bin/python
 #Title: Simple Tic Tac Toe AI using Reinforcement Learning
 #Date:17/5/2016
